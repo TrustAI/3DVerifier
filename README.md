@@ -1,5 +1,5 @@
 # 3d-verification
-##Supplementary work
+## Supplementary work
 In the supplementary_work.pdf, we demonstrate the power of JANet and provide the network configuration.
 ## First build the enviroment:
 
