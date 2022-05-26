@@ -1,4 +1,6 @@
 # 3d-verification
+##Supplementary work
+In the supplementary_work.pdf, we demonstrate the power of JANet and provide the network configuration.
 ## First build the enviroment:
 
 conda create --name cnncert python=3.6
