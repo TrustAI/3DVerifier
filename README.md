@@ -9,7 +9,7 @@ conda install pillow numpy scipy pandas h5py tensorflow numba posix_ipc matplotl
 The Tensorflow version should below tf1.15
 ## Then download our model checkpoints
 https://livelancsac-my.sharepoint.com/:f:/g/personal/mur2_lancaster_ac_uk/Eirostdd_-tOjpZmkU-yFdkBF6auqdp3IgWDur3ZcTnkyg?e=3fUXhe
-## To obtain the average bounds of 64 points on 25 layes with average pooling in PointNet model with T-Net, you can run 
+## To obtain the average bounds of 64 points on 12 layes with average pooling in PointNet model with T-Net, you can run 
 python main.py
 ## To obtain the distortion from attack method, you could run
 python atmain.py
