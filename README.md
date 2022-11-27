@@ -1,4 +1,5 @@
-# 3d-verification
+# 3DVerifier: efficient robustness verification for 3D point cloud models
+
 ## Supplementary work
 In the supplementary_work.pdf, we demonstrate the power of JANet and provide the network configuration.
 ## First build the enviroment:
@@ -13,3 +14,10 @@ https://livelancsac-my.sharepoint.com/:f:/g/personal/mur2_lancaster_ac_uk/Eirost
 python main.py
 ## To obtain the distortion from attack method, you could run
 python atmain.py
+
+##
+
+### Note: This work is accepted by Machine Learning Journal. Pls find the paper here: [3DVerifier: efficient robustness verification for 3D point cloud models](https://link.springer.com/article/10.1007/s10994-022-06235-3)
+
+
+-- Ronghui Mu & Wenjie Ruan
